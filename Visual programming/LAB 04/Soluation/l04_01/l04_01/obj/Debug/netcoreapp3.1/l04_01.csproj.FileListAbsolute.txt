@@ -1,0 +1,11 @@
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.exe
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.deps.json
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.runtimeconfig.json
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.runtimeconfig.dev.json
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.dll
+D:\20203020\l04_01\l04_01\bin\Debug\netcoreapp3.1\l04_01.pdb
+D:\20203020\l04_01\l04_01\obj\Debug\netcoreapp3.1\l04_01.csprojAssemblyReference.cache
+D:\20203020\l04_01\l04_01\obj\Debug\netcoreapp3.1\l04_01.AssemblyInfoInputs.cache
+D:\20203020\l04_01\l04_01\obj\Debug\netcoreapp3.1\l04_01.AssemblyInfo.cs
+D:\20203020\l04_01\l04_01\obj\Debug\netcoreapp3.1\l04_01.dll
+D:\20203020\l04_01\l04_01\obj\Debug\netcoreapp3.1\l04_01.pdb

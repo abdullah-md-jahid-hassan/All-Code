@@ -1,0 +1,10 @@
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.exe
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.deps.json
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.runtimeconfig.json
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.runtimeconfig.dev.json
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.dll
+F:\20203020\lab 06\l06_03\bin\Debug\netcoreapp3.1\l06_03.pdb
+F:\20203020\lab 06\l06_03\obj\Debug\netcoreapp3.1\l06_03.AssemblyInfoInputs.cache
+F:\20203020\lab 06\l06_03\obj\Debug\netcoreapp3.1\l06_03.AssemblyInfo.cs
+F:\20203020\lab 06\l06_03\obj\Debug\netcoreapp3.1\l06_03.dll
+F:\20203020\lab 06\l06_03\obj\Debug\netcoreapp3.1\l06_03.pdb

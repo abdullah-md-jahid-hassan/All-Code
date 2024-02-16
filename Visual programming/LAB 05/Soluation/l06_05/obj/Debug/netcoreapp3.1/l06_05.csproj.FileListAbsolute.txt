@@ -1,0 +1,24 @@
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.exe
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.deps.json
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.runtimeconfig.json
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.runtimeconfig.dev.json
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.dll
+F:\20203020\lab 06\l06_05\bin\Debug\netcoreapp3.1\l06_05.pdb
+F:\20203020\lab 06\l06_05\obj\Debug\netcoreapp3.1\l06_05.AssemblyInfoInputs.cache
+F:\20203020\lab 06\l06_05\obj\Debug\netcoreapp3.1\l06_05.AssemblyInfo.cs
+F:\20203020\lab 06\l06_05\obj\Debug\netcoreapp3.1\l06_05.dll
+F:\20203020\lab 06\l06_05\obj\Debug\netcoreapp3.1\l06_05.pdb
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.exe
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.deps.json
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.runtimeconfig.json
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.runtimeconfig.dev.json
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.dll
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\bin\Debug\netcoreapp3.1\l06_05.pdb
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.csproj.AssemblyReference.cache
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.AssemblyInfoInputs.cache
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.AssemblyInfo.cs
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.csproj.CoreCompileInputs.cache
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.dll
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.pdb
+B:\Document\Codes\Visual programming\LAB 05\Soluation\l06_05\obj\Debug\netcoreapp3.1\l06_05.genruntimeconfig.cache

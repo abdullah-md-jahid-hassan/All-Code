@@ -1,0 +1,6 @@
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\obj\Debug\L07_b01.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\bin\Debug\L07_b01.exe.config
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\bin\Debug\L07_b01.exe
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\bin\Debug\L07_b01.pdb
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\obj\Debug\L07_b01.exe
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\L07_b01\obj\Debug\L07_b01.pdb

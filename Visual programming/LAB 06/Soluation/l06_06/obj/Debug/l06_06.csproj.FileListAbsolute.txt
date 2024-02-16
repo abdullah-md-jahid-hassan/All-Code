@@ -1,0 +1,5 @@
+E:\New folder\l06_06\bin\Debug\l06_06.exe.config
+E:\New folder\l06_06\bin\Debug\l06_06.exe
+E:\New folder\l06_06\bin\Debug\l06_06.pdb
+E:\New folder\l06_06\obj\Debug\l06_06.exe
+E:\New folder\l06_06\obj\Debug\l06_06.pdb

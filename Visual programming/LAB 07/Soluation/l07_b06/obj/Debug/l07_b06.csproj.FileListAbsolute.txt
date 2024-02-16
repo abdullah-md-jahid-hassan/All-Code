@@ -1,0 +1,5 @@
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\l07_b06\bin\Debug\l07_b06.exe.config
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\l07_b06\bin\Debug\l07_b06.exe
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\l07_b06\bin\Debug\l07_b06.pdb
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\l07_b06\obj\Debug\l07_b06.exe
+C:\Users\Student.DESKTOP-8FPL8EE\source\repos\l07_b06\obj\Debug\l07_b06.pdb

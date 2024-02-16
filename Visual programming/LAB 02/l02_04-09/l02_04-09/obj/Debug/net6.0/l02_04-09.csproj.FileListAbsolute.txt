@@ -1,0 +1,15 @@
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\bin\Debug\net6.0\l02_04-09.exe
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\bin\Debug\net6.0\l02_04-09.deps.json
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\bin\Debug\net6.0\l02_04-09.runtimeconfig.json
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\bin\Debug\net6.0\l02_04-09.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\bin\Debug\net6.0\l02_04-09.pdb
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.csproj.AssemblyReference.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.AssemblyInfoInputs.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.AssemblyInfo.cs
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.csproj.CoreCompileInputs.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\refint\l02_04-09.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.pdb
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\l02_04-09.genruntimeconfig.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-09\l02_04-09\obj\Debug\net6.0\ref\l02_04-09.dll

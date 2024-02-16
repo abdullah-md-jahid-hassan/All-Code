@@ -1,0 +1,15 @@
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\bin\Debug\net6.0\l02_04-08.exe
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\bin\Debug\net6.0\l02_04-08.deps.json
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\bin\Debug\net6.0\l02_04-08.runtimeconfig.json
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\bin\Debug\net6.0\l02_04-08.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\bin\Debug\net6.0\l02_04-08.pdb
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.csproj.AssemblyReference.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.AssemblyInfoInputs.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.AssemblyInfo.cs
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.csproj.CoreCompileInputs.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\refint\l02_04-08.dll
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.pdb
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\l02_04-08.genruntimeconfig.cache
+B:\Document\Codes\Visual programming\LAB 02\l02_04-08\l02_04-08\obj\Debug\net6.0\ref\l02_04-08.dll

@@ -1,0 +1,15 @@
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.csproj.AssemblyReference.cache
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.AssemblyInfoInputs.cache
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.AssemblyInfo.cs
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.csproj.CoreCompileInputs.cache
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\bin\Debug\net6.0\l01_10.exe
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\bin\Debug\net6.0\l01_10.deps.json
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\bin\Debug\net6.0\l01_10.runtimeconfig.json
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\bin\Debug\net6.0\l01_10.dll
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\bin\Debug\net6.0\l01_10.pdb
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.dll
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\refint\l01_10.dll
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.pdb
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\l01_10.genruntimeconfig.cache
+B:\Document\Education\8th semester\CSC 439 (Visual programming)\Visual programming\Lab_01\l01_10\l01_10\obj\Debug\net6.0\ref\l01_10.dll

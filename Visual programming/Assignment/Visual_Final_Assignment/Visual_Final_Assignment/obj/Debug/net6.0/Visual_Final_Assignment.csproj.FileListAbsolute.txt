@@ -1,0 +1,15 @@
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\bin\Debug\net6.0\Visual_Final_Assignment.exe
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\bin\Debug\net6.0\Visual_Final_Assignment.deps.json
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\bin\Debug\net6.0\Visual_Final_Assignment.runtimeconfig.json
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\bin\Debug\net6.0\Visual_Final_Assignment.dll
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\bin\Debug\net6.0\Visual_Final_Assignment.pdb
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.csproj.AssemblyReference.cache
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.AssemblyInfoInputs.cache
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.AssemblyInfo.cs
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.csproj.CoreCompileInputs.cache
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.dll
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\refint\Visual_Final_Assignment.dll
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.pdb
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\Visual_Final_Assignment.genruntimeconfig.cache
+B:\Document\Codes\Visual programming\Assignment\Visual_Final_Assignment\Visual_Final_Assignment\obj\Debug\net6.0\ref\Visual_Final_Assignment.dll

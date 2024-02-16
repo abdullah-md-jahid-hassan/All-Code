@@ -1,0 +1,6 @@
+E:\New folder\l06_01\bin\Debug\l06_01.exe.config
+E:\New folder\l06_01\bin\Debug\l06_01.exe
+E:\New folder\l06_01\bin\Debug\l06_01.pdb
+E:\New folder\l06_01\obj\Debug\l06_01.csprojAssemblyReference.cache
+E:\New folder\l06_01\obj\Debug\l06_01.exe
+E:\New folder\l06_01\obj\Debug\l06_01.pdb

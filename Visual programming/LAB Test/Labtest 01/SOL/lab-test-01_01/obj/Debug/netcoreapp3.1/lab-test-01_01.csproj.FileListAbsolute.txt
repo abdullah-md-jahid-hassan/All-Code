@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.exe
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.deps.json
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.runtimeconfig.json
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.runtimeconfig.dev.json
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.dll
+C:\Users\Student\source\repos\lab-test-01_01\bin\Debug\netcoreapp3.1\lab-test-01_01.pdb
+C:\Users\Student\source\repos\lab-test-01_01\obj\Debug\netcoreapp3.1\lab-test-01_01.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\lab-test-01_01\obj\Debug\netcoreapp3.1\lab-test-01_01.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\lab-test-01_01\obj\Debug\netcoreapp3.1\lab-test-01_01.AssemblyInfo.cs
+C:\Users\Student\source\repos\lab-test-01_01\obj\Debug\netcoreapp3.1\lab-test-01_01.dll
+C:\Users\Student\source\repos\lab-test-01_01\obj\Debug\netcoreapp3.1\lab-test-01_01.pdb

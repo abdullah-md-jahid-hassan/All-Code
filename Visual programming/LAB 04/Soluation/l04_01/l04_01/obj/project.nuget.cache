@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lwdwgazsx4UV11t1S3kbCwnQx1a5Bql4HfqqkY9C70fxaKY5Hj217mUyVDoHGSzRNr3G5ArUm/PAb6zzrTUYhQ==",
+  "success": true,
+  "projectFilePath": "B:\\Document\\Codes\\Visual programming\\LAB 04\\Soluation\\l04_01\\l04_01\\l04_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

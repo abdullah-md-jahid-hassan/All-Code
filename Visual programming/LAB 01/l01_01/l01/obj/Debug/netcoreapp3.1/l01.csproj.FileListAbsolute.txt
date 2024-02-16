@@ -1,0 +1,25 @@
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.exe
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.deps.json
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.runtimeconfig.json
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.runtimeconfig.dev.json
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.dll
+C:\Users\Student\source\repos\l01\l01\bin\Debug\netcoreapp3.1\l01.pdb
+C:\Users\Student\source\repos\l01\l01\obj\Debug\netcoreapp3.1\l01.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\l01\l01\obj\Debug\netcoreapp3.1\l01.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\l01\l01\obj\Debug\netcoreapp3.1\l01.AssemblyInfo.cs
+C:\Users\Student\source\repos\l01\l01\obj\Debug\netcoreapp3.1\l01.dll
+C:\Users\Student\source\repos\l01\l01\obj\Debug\netcoreapp3.1\l01.pdb
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.dll
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.pdb
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.exe
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.deps.json
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.runtimeconfig.json
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.runtimeconfig.dev.json
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.dll
+B:\Document\Codes\Visual programming\l01_01\l01\bin\Debug\netcoreapp3.1\l01.pdb
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.csproj.AssemblyReference.cache
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.GeneratedMSBuildEditorConfig.editorconfig
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.AssemblyInfoInputs.cache
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.AssemblyInfo.cs
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.csproj.CoreCompileInputs.cache
+B:\Document\Codes\Visual programming\l01_01\l01\obj\Debug\netcoreapp3.1\l01.genruntimeconfig.cache
