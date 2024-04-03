@@ -10,7 +10,11 @@
     background-color: greenyellow;
 }
 
-.text-decoration-none{
+.nav-text-decoration{
     text-decoration: none;
     color: black;
+}
+
+.fa-user:hover{
+    font-weight: bold;
 }
