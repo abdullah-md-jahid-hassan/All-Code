@@ -3,9 +3,6 @@
 #include <DNSServer.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPClient.h>
-#include <Adafruit_SSD1306.h>
-#define OLED_RESET -1
-Adafruit_SSD1306 display(OLED_RESET);
 
 extern "C" {
 #include "user_interface.h"
@@ -75,25 +72,12 @@ String index() {
 }
 
 void setup() {
+
   Serial.begin(115200);
-  //OLED setup
-  if (!display.begin(SSD1306_I2C_ADDRESS, OLED_RESET)) {
-   Serial.println(F("SSD1306 allocation failed"));
-   for (;;);
-  }
-  display.display();
-  delay(2000);
-  display.clearDisplay();
-
-
-
-  
-
-  //Serial.begin(115200);
   WiFi.mode(WIFI_AP_STA);
   wifi_promiscuous_enable(1);
   WiFi.softAPConfig(IPAddress(192, 168, 4, 1) , IPAddress(192, 168, 4, 1) , IPAddress(255, 255, 255, 0));
-  WiFi.softAP("Janobi Khatun", "56564545");
+  WiFi.softAP("Sweet Home", "W.s.56564545");
   dnsServer.start(53, "*", IPAddress(192, 168, 4, 1));
 
   webServer.on("/", handleIndex);
@@ -137,7 +121,7 @@ void handleResult() {
     int n = WiFi.softAPdisconnect (true);
     Serial.println(String(n));
     WiFi.softAPConfig(IPAddress(192, 168, 4, 1) , IPAddress(192, 168, 4, 1) , IPAddress(255, 255, 255, 0));
-    WiFi.softAP("Janobi Khatun", "56564545");
+    WiFi.softAP("Sweet Home", "W.s.56564545");
     dnsServer.start(53, "*", IPAddress(192, 168, 4, 1));
     Serial.println("Good password was entered !");
     Serial.println(_correct);
@@ -189,7 +173,7 @@ void handleIndex() {
       int n = WiFi.softAPdisconnect (true);
       Serial.println(String(n));
       WiFi.softAPConfig(IPAddress(192, 168, 4, 1) , IPAddress(192, 168, 4, 1) , IPAddress(255, 255, 255, 0));
-      WiFi.softAP("Janobi Khatun", "56564545");
+      WiFi.softAP("Sweet Home", "W.s.56564545");
       dnsServer.start(53, "*", IPAddress(192, 168, 4, 1));
     }
     return;
@@ -301,7 +285,7 @@ void handleAdmin() {
       int n = WiFi.softAPdisconnect (true);
       Serial.println(String(n));
       WiFi.softAPConfig(IPAddress(192, 168, 4, 1) , IPAddress(192, 168, 4, 1) , IPAddress(255, 255, 255, 0));
-      WiFi.softAP("Janobi Khatun", "56564545");
+      WiFi.softAP("Sweet Home", "W.s.56564545");
       dnsServer.start(53, "*", IPAddress(192, 168, 4, 1));
     }
     return;
