@@ -2,7 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Esp8266/Esp8266_all_in_one" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HTML and CSS/Product-Description-Page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HTML and CSS/Resume_Template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PHP/Intern/Bariwala" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PHP/Intern/Internet Service Provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Simple-Python-Projects" vcs="Git" />
   </component>
 </project>
